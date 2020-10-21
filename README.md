@@ -15,8 +15,8 @@
 (* *Princeton University doesn't offer MOOC certificates*)
 
 ## Natural Sciences
-* Programmed Cell Death @ *LMU* ([certificate](certificates/Coursera Drugs and Brain certificate 2014.pdf))
-* Drugs and the Brain @ *Caltech* ([certificate](certificates/Coursera PCD certificate 2013.pdf))
+* Programmed Cell Death @ *LMU* ([certificate](certificates/Coursera_Drugs_and_Brain_certificate_2014.pdf))
+* Drugs and the Brain @ *Caltech* ([certificate](certificates/Coursera_PCD_certificate_2013.pdf))
 
 ## Miscellaneous
 * [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) @ *Yale* ([certificate](https://coursera.org/share/3a5cc394ca7b6170cd06d808e0860539))
