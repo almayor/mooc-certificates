@@ -6,6 +6,7 @@
 * [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) @ *deeplearning.ai* ([certificate](https://coursera.org/share/42f41b12427cb2c18dcb2eb988504c16))
 * [Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network) @ *deeplearning.ai* ([certificate](https://coursera.org/share/9ef5b3f5bcc21e6f27a2b66f007077d6))
 * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) @ *deeplearning.ai* ([certificate](https://coursera.org/share/2d37b80f03f13ad73ce8b4a588a7c2c3))
+* [Customizing your models with Tensorflow 2](https://www.coursera.org/learn/customising-models-tensorflow2) @ *Imperial College* ([certificate](https://coursera.org/share/b8c8e2f74117f888e15a6f9345caee0f))
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) @ *Princeton* (89.40% grade)*
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) @ *Princeton* (96.40% grade)*
 * [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models) @ *Stanford* ([certificate](https://coursera.org/share/92e125b412f1cd7e6f17f6dabe0efe48))
