@@ -22,3 +22,4 @@
 
 ## Miscellaneous
 * [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) @ *Yale* ([certificate](https://coursera.org/share/3a5cc394ca7b6170cd06d808e0860539))
+* [Большой транзит (Political History of Russia in the 1990s)](https://openuni.io/course/2/) @ *Открытый университет* ([certificate](certificates/OpenUniCertificate.pdf))
