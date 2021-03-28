@@ -1,6 +1,8 @@
-# My MOOC Certificates
+## CV
 
-## Assessments
+* [My CV](CV.pdf)
+
+## Assessments and Tests
 
 * [workera.ai](workera.ai) @ *deeplearning.ai* ([certificate](https://app.workera.ai/public/candidate/certificate?code=K8C52BJ7))
   * Mathematics – 95% percentile
