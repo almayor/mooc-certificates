@@ -29,7 +29,7 @@
 * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) @ *deeplearning.ai* ([certificate](https://coursera.org/share/d9aee15d608158c00ab234e189589df2))
 * [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) @ *deeplearning.ai* ([certificate](https://coursera.org/share/2d37b80f03f13ad73ce8b4a588a7c2c3))
 * [Customizing your models with Tensorflow 2](https://www.coursera.org/learn/customising-models-tensorflow2) @ *Imperial College* ([certificate](https://coursera.org/share/b8c8e2f74117f888e15a6f9345caee0f))
-* [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2/home/info) @ *Imperial College* (_in progress_)
+* [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2/home/info) @ *Imperial College* ([certificate](https://coursera.org/share/e94ca2ac0b64ed8be552421a24250a2e))
 * [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl/home/welcome) @ *HSE University* ([certificate](https://coursera.org/share/ec9bc53f0cb0054b45da122503903ed8))
 * [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) @ *Amazon Web Services* ([certificate](https://coursera.org/share/a31104fa55512a2521e808f7ae044db0))
 
