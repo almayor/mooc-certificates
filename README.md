@@ -41,5 +41,6 @@
 * [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) @ *Yale* ([certificate](https://coursera.org/share/3a5cc394ca7b6170cd06d808e0860539))
 * [Большой транзит (Political History of Russia in the 1990s)](https://openuni.io/course/2/) @ *Открытый университет* ([certificate](certificates/OpenUniCertificate.pdf))
 * [Курс портфельного инвестора I (Investing Fundamentals I)](https://fin-ra.ru) @ *fin-ra.ru* ([certificate](certificates/investing-1-step.pdf))
+* [Курс портфельного инвестора II (Investing Fundamentals II)](https://fin-ra.ru) @ *fin-ra.ru* ([certificate](certificates/investing-2-step.pdf))
 
 (* *Princeton University doesn't offer MOOC certificates*)
