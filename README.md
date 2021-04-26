@@ -42,5 +42,6 @@
 * [Большой транзит (Political History of Russia in the 1990s)](https://openuni.io/course/2/) @ *Открытый университет* ([certificate](certificates/OpenUniCertificate.pdf))
 * [Курс портфельного инвестора I (Investing Fundamentals I)](https://fin-ra.ru) @ *fin-ra.ru* ([certificate](certificates/investing-1-step.pdf))
 * [Курс портфельного инвестора II (Investing Fundamentals II)](https://fin-ra.ru) @ *fin-ra.ru* ([certificate](certificates/investing-2-step.pdf))
+* [The History of Modern Israel – Part I](https://www.coursera.org/learn/history-israel) @ *Tel Aviv University* (audited)
 
 (* *Princeton University doesn't offer MOOC certificates*)
