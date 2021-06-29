@@ -15,8 +15,8 @@
 
 ## CS and Maths
 * [Game Theory](https://www.coursera.org/learn/game-theory-1) @ *Stanford & The University of British Columbia* ([certificate](https://coursera.org/share/e7c0c8ce0a4e01f261c35d8a213bcf42))
-* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) @ *Princeton* (89.40% grade)*
-* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) @ *Princeton* (96.40% grade)*
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) @ *Princeton* (89.40% grade, no cert. offered)
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) @ *Princeton* (96.40% grade, no cert. offered)
 * [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models) @ *Stanford* ([certificate](https://coursera.org/share/92e125b412f1cd7e6f17f6dabe0efe48))
 * [Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference) @ *Stanford* ([certificate](https://coursera.org/share/6fc6af37eb7b4814b92f7a5026780e58))
 * [Paradox and Infinity](https://www.edx.org/course/paradox-and-infinity) @ *MITx* (audited)
@@ -31,7 +31,11 @@
 * [Customizing your models with Tensorflow 2](https://www.coursera.org/learn/customising-models-tensorflow2) @ *Imperial College* ([certificate](https://coursera.org/share/b8c8e2f74117f888e15a6f9345caee0f))
 * [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2/home/info) @ *Imperial College* ([certificate](https://coursera.org/share/e94ca2ac0b64ed8be552421a24250a2e))
 * [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl/home/welcome) @ *HSE University* ([certificate](https://coursera.org/share/ec9bc53f0cb0054b45da122503903ed8))
+
+## Development
 * [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) @ *Amazon Web Services* ([certificate](https://coursera.org/share/a31104fa55512a2521e808f7ae044db0))
+* [The Creative HTML5 & CSS3 Course](https://developedbyed.com/p/the-creative-html5-css3-course) @ *developedbyed.com* (no cert. offered)
+* [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) @ *developedbyed.com* (no cert. offered)
 
 ## Natural Sciences
 * Programmed Cell Death @ *LMU* ([certificate](certificates/Coursera_PCD_certificate_2013.pdf))
