@@ -14,6 +14,7 @@
   * Overall score: 72 (Facebook and Google require 58)
 
 ## CS and Maths
+* [AlgoExpert](http://algoexpert.io) @ algoexpert.io ([certificate](https://certificate.algoexpert.io/AE-5b045ca343), solved 100+ algorithmic problems)
 * [Game Theory](https://www.coursera.org/learn/game-theory-1) @ *Stanford & The University of British Columbia* ([certificate](https://coursera.org/share/e7c0c8ce0a4e01f261c35d8a213bcf42))
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) @ *Princeton* (89.40% grade, no cert. offered)
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) @ *Princeton* (96.40% grade, no cert. offered)
