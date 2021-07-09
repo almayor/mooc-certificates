@@ -48,3 +48,4 @@
 * [Курс портфельного инвестора I (Investing Fundamentals I)](https://fin-ra.ru) @ *fin-ra.ru* ([certificate](certificates/investing-1-step.pdf))
 * [Курс портфельного инвестора II (Investing Fundamentals II)](https://fin-ra.ru) @ *fin-ra.ru* ([certificate](certificates/investing-2-step.pdf))
 * [The History of Modern Israel – Part I](https://www.coursera.org/learn/history-israel) @ *Tel Aviv University* (audited)
+* [Art of soft skills: гибкие навыки для жизни и учебы](https://stepik.org/course/95702/) @ *Русская школа программирования* ([certificate](https://stepik.org/cert/1022075))
