@@ -22,7 +22,6 @@
 * [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models) @ *Stanford* ([certificate](https://coursera.org/share/92e125b412f1cd7e6f17f6dabe0efe48))
 * [Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference) @ *Stanford* ([certificate](https://coursera.org/share/6fc6af37eb7b4814b92f7a5026780e58))
 * [Paradox and Infinity](https://www.edx.org/course/paradox-and-infinity) @ *MITx* (audited)
-* [Introduction to Galois Theory](https://www.coursera.org/learn/galois/home/info) @ *HSE University* (_in progress_)
 
 ## Machine Learning and Data Science
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford* ([certificate](https://coursera.org/share/f86d3eb0588e2c8d0e748c27b55cbb11))
