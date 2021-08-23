@@ -15,7 +15,7 @@
 
 ## CS and Maths
 * [AlgoExpert](http://algoexpert.io) @ *algoexpert.io* ([certificate](https://certificate.algoexpert.io/AE-5b045ca343), solved 100+ algorithmic problems)
-* [Number Theory and Cryptography] @ *University of California San Diego* ([certificate](https://coursera.org/share/a86042e08154f475b017e052d555456f))
+* [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) @ *University of California San Diego* ([certificate](https://coursera.org/share/a86042e08154f475b017e052d555456f))
 * [Game Theory](https://www.coursera.org/learn/game-theory-1) @ *Stanford & The University of British Columbia* ([certificate](https://coursera.org/share/e7c0c8ce0a4e01f261c35d8a213bcf42))
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) @ *Princeton* (89.40% grade, no cert. offered)
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) @ *Princeton* (96.40% grade, no cert. offered)
