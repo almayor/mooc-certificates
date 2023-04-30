@@ -1,18 +1,3 @@
-## CV
-
-* [My CV](CV.pdf)
-
-## Assessments and Tests
-
-* [workera.ai](workera.ai) @ *deeplearning.ai* ([certificate](https://app.workera.ai/public/candidate/certificate?code=K8C52BJ7))
-  * Mathematics – 95% percentile
-  * Algorithmic Coding – 86% percentile
-  * Software Engineering – 91% percentile
-  * Deep Learning – 96% percentile
-  * Data Science – 92% percentile
-  * Machine Learning – 87% percentile
-  * Overall score: 72 (Facebook and Google require 58)
-
 ## CS and Maths
 * [AlgoExpert](http://algoexpert.io) @ *algoexpert.io* ([certificate](https://certificate.algoexpert.io/AE-5b045ca343), solved 100+ algorithmic problems)
 * [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography) @ *University of California San Diego* ([certificate](https://coursera.org/share/a86042e08154f475b017e052d555456f))
@@ -52,3 +37,19 @@
 * [Курс портфельного инвестора II (Investing Fundamentals II)](https://fin-ra.ru) @ *fin-ra.ru* ([certificate](certificates/investing-2-step.pdf))
 * [The History of Modern Israel – Part I](https://www.coursera.org/learn/history-israel) @ *Tel Aviv University* (audited)
 * [Art of Soft Skills: гибкие навыки для жизни и учебы](https://stepik.org/course/95702/) @ *Русская Школа Программирования* ([certificate](https://stepik.org/cert/1022075))
+
+## Assessments and Tests
+
+* [workera.ai](workera.ai) @ *deeplearning.ai* ([certificate](https://app.workera.ai/public/candidate/certificate?code=K8C52BJ7))
+  * Mathematics – 95% percentile
+  * Algorithmic Coding – 86% percentile
+  * Software Engineering – 91% percentile
+  * Deep Learning – 96% percentile
+  * Data Science – 92% percentile
+  * Machine Learning – 87% percentile
+  * Overall score: 72 (Facebook and Google require 58)
+  
+## CV
+
+* [My CV](CV.pdf)
+
