@@ -23,6 +23,7 @@
 * [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models) @ *Stanford* ([certificate](https://coursera.org/share/92e125b412f1cd7e6f17f6dabe0efe48))
 * [Probabilistic Graphical Models 2: Inference](https://www.coursera.org/learn/probabilistic-graphical-models-2-inference) @ *Stanford* ([certificate](https://coursera.org/share/6fc6af37eb7b4814b92f7a5026780e58))
 * [Paradox and Infinity](https://www.edx.org/course/paradox-and-infinity) @ *MITx* (audited)
+* [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) @ *Stanford* ([certificate](https://coursera.org/verify/3WZQ6MA7NNNA))
 
 ## Machine Learning and Data Science
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford* ([certificate](https://coursera.org/share/f86d3eb0588e2c8d0e748c27b55cbb11))
@@ -42,6 +43,7 @@
 ## Natural Sciences
 * Programmed Cell Death @ *LMU* ([certificate](certificates/Coursera_PCD_certificate_2013.pdf))
 * Drugs and the Brain @ *Caltech* ([certificate](certificates/Coursera_Drugs_and_Brain_certificate_2014.pdf))
+* [Density Functional Theory](https://www.coursera.org/learn/density-functional-theory) @ *École Polytechnique* ([certificate](https://coursera.org/verify/3LCBAXEQXMGJ))
 
 ## Miscellaneous
 * [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) @ *Yale* ([certificate](https://coursera.org/share/3a5cc394ca7b6170cd06d808e0860539))
