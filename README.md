@@ -29,7 +29,7 @@
 * Programmed Cell Death @ *LMU* ([certificate](certificates/Coursera_PCD_certificate_2013.pdf))
 * Drugs and the Brain @ *Caltech* ([certificate](certificates/Coursera_Drugs_and_Brain_certificate_2014.pdf))
 * [Density Functional Theory](https://www.coursera.org/learn/density-functional-theory) @ *École Polytechnique* ([certificate](https://coursera.org/verify/3LCBAXEQXMGJ))
-* [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) @ *MITx* ([certificate](https://courses.edx.org/certificates/4cd62320622c4eafa2fe2628ee062146?_gl=1*1x8bpm9*_ga*MTA3MDQ4NDQ4MS4xNjgxNzI4OTM1*_ga_D3KS4KMDT0*MTY4Mzk4MTQ4NC45NC4xLjE2ODM5ODY3MjcuMC4wLjA.)
+* [Transfer Functions and the Laplace Transform](https://www.edx.org/course/transfer-functions-and-the-laplace-transform) @ *MITx* ([certificate](https://courses.edx.org/certificates/4cd62320622c4eafa2fe2628ee062146?_gl=1*1x8bpm9*_ga*MTA3MDQ4NDQ4MS4xNjgxNzI4OTM1*_ga_D3KS4KMDT0*MTY4Mzk4MTQ4NC45NC4xLjE2ODM5ODY3MjcuMC4wLjA.))
 
 ## Miscellaneous
 * [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) @ *Yale* ([certificate](https://coursera.org/share/3a5cc394ca7b6170cd06d808e0860539))
