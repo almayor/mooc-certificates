@@ -30,6 +30,7 @@
 * Programmed Cell Death @ *LMU* ([certificate](certificates/Coursera_PCD_certificate_2013.pdf))
 * Drugs and the Brain @ *Caltech* ([certificate](certificates/Coursera_Drugs_and_Brain_certificate_2014.pdf))
 * [Density Functional Theory](https://www.coursera.org/learn/density-functional-theory) @ *École Polytechnique* ([certificate](https://coursera.org/verify/3LCBAXEQXMGJ))
+* [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics) @ *École normale supérieure* (95.25% grade, no cert. offered)
 
 ## Miscellaneous
 * [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) @ *Yale* ([certificate](https://coursera.org/share/3a5cc394ca7b6170cd06d808e0860539))
