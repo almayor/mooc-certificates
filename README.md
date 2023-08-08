@@ -31,6 +31,7 @@
 * Drugs and the Brain @ *Caltech* ([certificate](certificates/Coursera_Drugs_and_Brain_certificate_2014.pdf))
 * [Density Functional Theory](https://www.coursera.org/learn/density-functional-theory) @ *École Polytechnique* ([certificate](https://coursera.org/verify/3LCBAXEQXMGJ))
 * [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics) @ *École normale supérieure* (95.25% grade, no cert. offered)
+* [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) @ *University of Colorado Boulder* ([certificate](https://www.coursera.org/account/accomplishments/certificate/9H64J3AFFSMA))
 
 ## Miscellaneous
 * [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic) @ *Yale* ([certificate](https://coursera.org/share/3a5cc394ca7b6170cd06d808e0860539))
@@ -49,7 +50,7 @@
   * Deep Learning – 96% percentile
   * Data Science – 92% percentile
   * Machine Learning – 87% percentile
-  * Overall score: 72 (Facebook and Google require 58)
+  * Overall score: 72
   
 ## CV
 
